@@ -107,13 +107,4 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ---
 
-### ✨ Tagline
 
-> “Turns images into creative, narrated stories using Generative AI, LLMs, and voice synthesis.”
-
-```
-
----
-
-Would you like me to generate a matching **`requirements.txt`** file next (with all the correct Python dependencies for this project)?
-```
